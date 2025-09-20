@@ -1,0 +1,5 @@
+  =>  Name    : Nairobi Smartstay Hotel
+
+  =>  License :  read the LICENSE.txt file
+
+  =>  Template Author  : Cecil khasenye papai

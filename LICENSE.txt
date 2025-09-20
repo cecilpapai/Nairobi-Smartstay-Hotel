@@ -1,0 +1,42 @@
+ 
+
+
+NAIROBI SMARTSTAY HOTEL PROPRIETARY LICENSE
+Effective Date: [13/05/2025]
+Software: [NAIROBI SMARTSTAY HOTEL]
+Version: [1.0]
+
+1. OWNERSHIP
+All rights, title, and interest in this project (including source code, designs, and documentation) are the exclusive property of Nairobi SmartStay Hotel Ltd. (hereinafter "the Company").
+
+2. GRANT OF LICENSE
+The Company grants you (employees/contractors) a non-exclusive, non-transferable license to:
+? Use internally for business operations
+? Modify for Company-approved projects
+? Test in development environments
+
+3. RESTRICTIONS
+You may NOT:
+? Distribute, sell, or sublicense the software
+? Reverse-engineer or decompile components
+? Remove copyright notices or metadata
+? Use for competing hospitality services
+
+4. CONFIDENTIALITY
+All project materials are considered Company Confidential under the NDA dated [NDA Date].
+
+5. TERMINATION
+Violation of terms automatically revokes all rights. Upon termination:
+? Destroy all copies
+? Return Company assets
+
+6. LIABILITY
+The software is provided "AS IS" without warranties. The Company is not liable for:
+? Operational disruptions
+? Data loss
+? Third-party claims
+
+Signed: __cecil_____khasenye____papai__________
+Name: [cecil khasenye papai]
+Position: [e.g., CTO/Director]
+Date: [13/05/2025]
