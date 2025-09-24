@@ -2,7 +2,7 @@
 
 A modern, multi-page frontend application for hotel booking and management system designed for Nairobi SmartStay Hotel.
 <img width="1906" height="892" alt="homepage screenshot" src="https://github.com/user-attachments/assets/f0e7115d-9116-4515-9ee5-89413c3de551" />
-VIEW WEB via (https://nairobi-smartstay-hotel.netlify.app/login)
+VIEW WEB via (https://nairobi-smartstay-hotel.netlify.app)
 
 ## 🌟 Features
 ### Guest Features
