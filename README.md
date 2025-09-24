@@ -1,7 +1,7 @@
 # 🏨 Nairobi SmartStay Hotel - Booking Management System
 
 A modern, multi-page frontend application for hotel booking and management system designed for Nairobi SmartStay Hotel.
-link to (nairobi-smartstay-hotel.netlify.app)
+VIEW WEB via (https://nairobi-smartstay-hotel.netlify.app/login)
 
 ## 🌟 Features
 
